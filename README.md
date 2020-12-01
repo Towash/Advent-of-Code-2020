@@ -9,4 +9,4 @@ My submissions for the Advent of Code 2020
 
 | Day   | Part 1 | Part 2 |
 |-------|--------|--------|
-| Day 1 - Report Repair| ✅      | ✅   |
+|[ Day 1 - Report Repair](https://github.com/Towash/Advent-of-Code-2020/blob/main/Day%201%20-%20Report%20Repair/Expenses.java)| ✅      | ✅   |
