@@ -9,4 +9,4 @@ My submissions for the Advent of Code 2020
 
 | Day   | Part 1 | Part 2 |
 |-------|--------|--------|
-| Day 1 | ✅      | ✅   |
+| Day 1 - Report Repair| ✅      | ✅   |
