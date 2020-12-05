@@ -13,3 +13,4 @@ My submissions for the Advent of Code 2020
 |[ Day 2 - Password Philosophy](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%202%20-%20Password%20Philosophy)| ✅ | ✅ |
 |[ Day 3 - Toboggan Trajectory](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%203%20-%20Toboggan%20Trajectory)| ✅ | ✅ |
 |[ Day 4 - Passport Processing](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%204%20-%20Passport%20Processing)| ✅ | ✅ |
+|[ Day 5 - Binary Boarding](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%205%20-%20Binary%20Boarding)| ✅ | ✅ |
