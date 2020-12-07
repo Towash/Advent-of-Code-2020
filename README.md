@@ -15,3 +15,4 @@ My submissions for the Advent of Code 2020
 |[ Day 4 - Passport Processing](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%204%20-%20Passport%20Processing)| ✅ | ✅ |
 |[ Day 5 - Binary Boarding](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%205%20-%20Binary%20Boarding)| ✅ | ✅ |
 |[ Day 6 - Custom Customs](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%206%20-%20Custom%20Customs)| ✅ | ✅ |
+|[ Day 7 - Handy Haversacks](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%207%20-%20Handy%20Haversacks)| ✅ | ✅ |
