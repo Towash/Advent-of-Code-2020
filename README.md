@@ -16,3 +16,4 @@ My submissions for the Advent of Code 2020
 |[ Day 5 - Binary Boarding](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%205%20-%20Binary%20Boarding)| ✅ | ✅ |
 |[ Day 6 - Custom Customs](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%206%20-%20Custom%20Customs)| ✅ | ✅ |
 |[ Day 7 - Handy Haversacks](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%207%20-%20Handy%20Haversacks)| ✅ | ✅ |
+|[ Day 8 - Handheld Halting](https://github.com/Towash/Advent-of-Code-2020/tree/main/Day%208%20-%20Handheld%20Halting)| ✅ | ✅ |
